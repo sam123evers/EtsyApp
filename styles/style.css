@@ -1,0 +1,26 @@
+.detailImage{
+	max-height: 400px;
+	max-width: 400px;
+}
+
+.detailPrice, .quantity {
+	display: inline-block;
+
+}
+
+.quantity{
+	margin-left: 200px;
+}
+
+.gridImage{
+	margin: 20px;
+	box-shadow: 4px 4px 4px 4px black;
+}
+
+header{
+	text-align: center;
+}
+
+nav{
+	display: block;
+}
